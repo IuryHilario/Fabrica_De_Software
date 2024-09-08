@@ -1,2 +1,2 @@
 # Fabrica_De_Software
-Este é um protótipo para a atividade de Fabrica de Software
+Este é um protótipo para a atividade de Fabrica de Software utilizando tags semânticas
